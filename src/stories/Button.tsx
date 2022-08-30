@@ -46,3 +46,6 @@ export const Button = ({
     </button>
   );
 };
+
+// Exportarlo tambien asi, aumenta la compatibilidad
+export default Button;

@@ -66,3 +66,7 @@ export const MyLabel = ({
     </span>
   )
 }
+
+
+// Exportarlo tambien asi, aumenta la compatibilidad
+export default MyLabel;
